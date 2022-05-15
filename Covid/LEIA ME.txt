@@ -1,0 +1,3 @@
+01 - comparação entre q_exp e exp + fit q_exp
+02 - fit exp pra todo o brasil (estado+capital+interior)
+03 - fit q_exp pra todo o brasil (estado+capital+interior) + evolução temporal para todos os estados
